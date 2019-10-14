@@ -1,9 +1,12 @@
 # Best Resources to learn C and JAVA 
-Below are a few list of resources were one can lear the above mentioned programming languages.
+Below are a few list of resources were one can learn the above mentioned programming languages.
+
+
+### HELLO WORLD IS THE FIRST PROGRAM ANYONE WHO STARTS LEARNING PROGRAMMING. SO FOR MAKING THE PROGRAMMING JOURNEY SMOOTH FOR BEGGINERS , THIS REPO CONTAINS HELLO WORLD & SOME BASIC ARITHMETIC PROGRAMS.
 
 ## C Programming
 -> [CS50](https://cs50.harvard.edu) is a free online class taken by over 1 million people and introducing students to the basics of computer science. CS50 is taught by David Malan of Harvard. 
--> [w3resource](https://www.w3resource.com/c-programming-exercises/) is a website that gives you access for learning several computer programming languages such as "C" and also provided exercises too.
+-> [w3resource](https://www.w3resource.com/c-programming-exercises/) is a website that gives you access for learning several computer programming languages such as "C" and also provided exercises to
 
 ## JAVA Programming 
 -> [w3resource](https://www.w3resource.com/c-programming-exercises/) is a website that gives you access for learning several computer programming languages such as "JAVA" and also provided exercises too.
